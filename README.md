@@ -6,7 +6,7 @@ This is Python script to extract and transform blockchain data, and load formatt
 ## Bitcoin
 Usage for Bitcoin data ETL:
 ```
-python main.py \
+python bitcoin-etl.py \
   --ak-id=LTA******* \
   --ak-secret=******** \
   --endpoint=cn-shanghai.log.aliyuncs.com \
