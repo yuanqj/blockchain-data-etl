@@ -4,6 +4,7 @@ This is Python script to extract and transform blockchain data, and load formatt
 
 
 ## Bitcoin
+It's inspired by open source project [Bitcoin ETL](https://github.com/blockchain-etl/bitcoin-etl)
 Usage for Bitcoin data ETL:
 ```
 python bitcoin-etl.py \
